@@ -1,5 +1,5 @@
 # SQL-Tableau-Integration
-In this repository, my aim is to practice my Tableu and SQL skills using Employees sample database [1]. All the sql files for the queries shown below are given in the [SQL queries]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/asligulaksan/SQL-Tableau-Integration/tree/main/SQL%20queries)) folder. SQL codes are written in MySQL.
+In this repository, my aim is to practice my Tableu and SQL skills using Employees sample database [[1]](#1). All the sql files for the queries shown below are given in the <a href="https://github.com/asligulaksan/SQL-Tableau-Integration/tree/main/SQL%20queries">SQL queries</a> folder. SQL codes are written in MySQL.
 
 ## SQL Query 1
 Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990.
